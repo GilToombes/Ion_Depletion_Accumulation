@@ -26,16 +26,17 @@ constraint_Chemistry_AB_AC.m
 
 constraint_Chemistry_AB_fast.m
 
- 	Constraint on chemical reactions for a solution containing a simple buffer  A + B <-> AB where the buffer reaction rates are much faster than all other dynamics in system (i.e. fast buffer)
+ 	Constraint on chemical reactions for a solution containing a simple buffer  A + B <-> AB 
+	Buffer reaction rates are much faster than all other dynamics in system (i.e. fast buffer)
 
 constraint_Chemistry_HB.m 
+
 	Constraint function for a fast HB proton buffer
             H+ + B <-> HB
  
 constraint_Chemistry_HOHB.m 
 
-	Constraint function for a HB proton buffer
-	which included OH-
+	Constraint function for a HB proton buffer which included OH-
           H+ + B   <-> HB ;
           H+ + OH  <-> H2O;
 
@@ -46,12 +47,12 @@ constraint_J.m
 constraint_Jsol.m
 
 	Constraint function for solvent flow
-    Assumes all comparments are incompressible
+	Assumes all comparments are incompressible
 
 constraint_Lambda.m
 
     Constraint function for compartment volume
-    assuming compartment is infinitely deformable
+    Assumes compartment is infinitely deformable
 
 constraint_Rho.m
 
