@@ -1,0 +1,24 @@
+ Figure6_WholeCell_SS_Depletion
+
+ Pipette Solution Conductance = 1.49 S/m. Tip Diameter = 1.02 microns.
+ Access Resistance = 5.00 MOhms. Series Resistance Correction = 0.00 MOhms.
+ Access Resistance = 0.00 MOhms. Series Resistance Correction = 
+ IK+ = 1.000 nA, Igluc- = -0.00 nA, INa+ = 0.00 nA, ICl- = -0.00 nA
+ Analytic rhoK = 130.24 mM, rho_gluc = 130.24 mM, rhoNa = 0.00 mM, rhoCl = 0.00 mM
+ Numeric  rhoK = 130.24 mM, rho_gluc = 130.24 mM, rhoNa = 0.00 mM, rhoCl = 0.00 mM
+ Numeric  DeltaV = 3.57 mV, Analytic = 3.33 mV,
+
+ IK+ = 0.000 nA, Igluc- = -0.00 nA, INa+ = 0.00 nA, ICl- = 1.00 nA
+ Analytic rhoK = 169.03 mM, rho_gluc = 130.97 mM, rhoNa = 0.00 mM, rhoCl = 38.06 mM
+ Numeric  rhoK = 169.03 mM, rho_gluc = 133.11 mM, rhoNa = 0.00 mM, rhoCl = 35.92 mM
+ Numeric  DeltaV = 3.02 mV, Analytic = 3.20 mV,
+
+ IK+ = 0.000 nA, Igluc- = -0.00 nA, INa+ = -1.00 nA, ICl- = -0.00 nA
+ Analytic rhoK = 121.03 mM, rho_gluc = 178.97 mM, rhoNa = 57.94 mM, rhoCl = 0.00 mM
+ Numeric  rhoK = 125.72 mM, rho_gluc = 178.97 mM, rhoNa = 53.25 mM, rhoCl = 0.00 mM
+ Numeric  DeltaV = -4.46 mV, Analytic = -4.88 mV,
+
+ IK+ = 1.000 nA, Igluc- = -0.00 nA, INa+ = -1.00 nA, ICl- = -0.00 nA
+ Analytic rhoK = 101.27 mM, rho_gluc = 159.21 mM, rhoNa = 57.94 mM, rhoCl = 0.00 mM
+ Numeric  rhoK = 102.95 mM, rho_gluc = 159.21 mM, rhoNa = 56.27 mM, rhoCl = 0.00 mM
+ Numeric  DeltaV = -1.51 mV, Analytic = -1.55 mV,
