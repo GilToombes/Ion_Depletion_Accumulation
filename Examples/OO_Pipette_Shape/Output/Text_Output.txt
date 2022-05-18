@@ -1,0 +1,7 @@
+
+d_tip = 0.42 microns, theta = 15.00 degrees, R = 4.99 MOhms, P_K = 12.24 * 10^{-5} m/s, tau_rho 1.35 msec, tmid_rho = 1.56 msec
+ d_tip = 0.96 microns, theta = 6.67 degrees, R = 5.00 MOhms, P_K = 2.43 * 10^{-5} m/s, tau_rho 34.53 msec, tmid_rho = 39.53 msec
+ d_tip = 0.64 microns, theta = 10.00 degrees, R = 5.00 MOhms, P_K = 5.46 * 10^{-5} m/s, tau_rho 6.83 msec, tmid_rho = 7.84 msec
+
+
+sigma =    2.2865
