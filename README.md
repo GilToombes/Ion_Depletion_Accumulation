@@ -71,7 +71,7 @@ membrane_current_Kv.m
 	GHK flux for membrane with voltage-dependent membrane permeability
 
 plot2svg.m
-	Save figures to SVG function from Juerg Schwizer 23-Oct-2005
+Save figures to SVG function from Juerg Schwizer 23-Oct-2005
 
 resistance.m
 	Calculate electrical resistance of configuration
