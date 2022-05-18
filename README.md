@@ -8,6 +8,7 @@ Examples are in the Examples folder.
 ## Function List
 
 calculate_PGHK_from_I.m
+	
 	Calculate the GHK membrane permeability to each ion corresponding to a given current of each ion.
     
 calculate_tip_diameter.m
